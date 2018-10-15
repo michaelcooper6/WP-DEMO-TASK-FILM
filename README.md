@@ -17,4 +17,5 @@ The bulk of my personal coding is reflected on front-page.php and content-single
 I look forward to your feedback.
 
 Thanks,
+
 Michael
