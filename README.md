@@ -13,7 +13,6 @@ The movies can be filtered by using the genre, year of release, actors and the c
 I've used several plugins for this project and utilized the specified Unite theme.
 
 The bulk of my personal coding is reflected on front-page.php and content-single.php to display the custom information and these are appropriately commented.
-I apologize for not using the pull requests for this project appropriately. I used WAMP to build the application separately and proceded to upload the contents of the application folder after it was completed. 
 
 I look forward to your feedback.
 
